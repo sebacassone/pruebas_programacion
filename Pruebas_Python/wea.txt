@@ -1,0 +1,27 @@
+Para c = 0 hasta 5
+    Para f = 0 hasta 5 
+        Si c < f
+            Imprimir " "
+        Si no
+            Imprimir "*"
+    Nueva Línea
+
+Para c = 0 hasta 5
+    Para f = 0 hasta 5 
+        Si 0 < f < 4 y 0 < c < 4
+            Imprimir " "
+        Si no
+            Imprimir "*"
+    Nueva Línea
+
+
+Para c = 0 hasta 5
+    Para f = 0 hasta 5 
+        Si f == c
+            Imprimir "*"
+        Si no
+            Si f + c == 4
+                Imprimir "*"
+            Si no
+                Imprimir " "
+    Nueva Línea
